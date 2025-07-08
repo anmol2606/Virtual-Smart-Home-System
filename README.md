@@ -18,7 +18,7 @@ It includes light control with a push button, a temperature-based fan, and a pas
 ![image](https://github.com/user-attachments/assets/c8f5f777-3ff9-4420-b43f-af33174f31f8)
 
 ## 🔗 Tinkercad Simulation Link
-[Click here to view simulation]([https://www.tinkercad.com/...your-link...](https://www.tinkercad.com/things/1oi94sTVNqL-smart-home-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard))
+[Click here to view simulation](https://www.tinkercad.com/things/1oi94sTVNqL-smart-home-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 ## 📄 How to Run
 - Open code in Arduino IDE or Tinkercad editor
